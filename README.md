@@ -7,5 +7,5 @@
 5. Sklearn
 ## How to run??
 1. Download the files
-2. Install reuired libraries
+2. Install required libraries
 3. Run
